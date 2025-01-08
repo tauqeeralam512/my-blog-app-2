@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: cursive;
+}
+
+header{
+    color: cadetblue;
+    text-align: center;
+    font-size: x-large;
+}
+
+main{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button{
+    margin-left: 45%;
+    background-color: blue;
+    padding: 6px;
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+}
